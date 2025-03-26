@@ -175,7 +175,7 @@ def otp_phishing_simulation():
             margin: 20px 0;
         ">
         <h4 style="color: #d32f2f; margin-top: 0;">What the attacker can do:</h4>
-        <ul>
+        <ul style="color: black;">
             <li>Access sensitive information</li>
             <li>Make unauthorized transactions</li>
             <li>Change account settings</li>
